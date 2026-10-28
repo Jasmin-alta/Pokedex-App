@@ -69,10 +69,3 @@ This project helped me strengthen my understanding of:
 
 I built this Pokédex while following a React Native crash course to gain hands-on experience with mobile development. The project gave me an opportunity to apply React and TypeScript concepts, understand how APIs work, and practice building an interactive mobile interface.
 
-## 👩‍💻 About the Developer
-
-I'm Jasmin Altamirano, a Computer Information Systems student at Georgia State University exploring software engineering and mobile application development.
-
-**Portfolio:** https://jasmin-altamirano.vercel.app/
-
-**GitHub:** https://github.com/Jasmin-alta
